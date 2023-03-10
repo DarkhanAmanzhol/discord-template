@@ -7,10 +7,12 @@ module.exports = {
     },
     extend: {
       colors: {
-        "dark-primary": "#2C3333",
-        "dark-secondary": "#395B64",
+        "dark-primary": "#332e2e",
+        "dark-secondary": "#474140",
         green: "#2E8B57",
         red: "#DC143C",
+        white: "#f5f0f0",
+        grey: "#94908f",
       },
     },
   },

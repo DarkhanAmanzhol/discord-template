@@ -1,0 +1,58 @@
+export const users = [
+  {
+    username: "Gamer",
+    role: "admin",
+    current_state: "playing Valorant",
+    status: "online",
+    color: "green",
+  },
+  {
+    username: "Bot111",
+    role: "admin",
+    current_state: "Make your Life better",
+    status: "online",
+    color: "green",
+  },
+  {
+    username: "JJJ",
+    role: "user",
+    current_state: "playing CS:GO",
+    status: "online",
+    color: "green",
+  },
+  {
+    username: "Alex",
+    role: "user",
+    current_state: "",
+    status: "online",
+    color: "green",
+  },
+  {
+    username: "Adil",
+    role: "user",
+    current_state: "",
+    status: "offline",
+    color: "green",
+  },
+  {
+    username: "Alikhan",
+    role: "user",
+    current_state: "",
+    status: "offline",
+    color: "green",
+  },
+  {
+    username: "101",
+    role: "user",
+    current_state: "Hello",
+    status: "offline",
+    color: "green",
+  },
+  {
+    username: "Doom",
+    role: "user",
+    current_state: "",
+    status: "offline",
+    color: "green",
+  },
+];
